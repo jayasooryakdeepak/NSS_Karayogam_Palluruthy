@@ -15,6 +15,7 @@ body {
 	font-weight:300;
 	line-height:1.6em;
 	color:#656565;
+	font-family: 'Noto Sans Malayalam', sans-serif;
 }
 
 a:active {
@@ -90,6 +91,7 @@ color: #2FADDE;
 header .navbar-collapse  ul.navbar-nav {
     float: right;
     margin-right: 0;
+	padding-top: 40px;
 }
 
 header .navbar-default{
@@ -226,6 +228,7 @@ header ul.nav li ul li a {
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
 	background:none;
 	font-weight:700;
+	font-size: 20px;
 }
 
 .navbar .nav > .active > a:active,.navbar .nav > .active > a:focus {
@@ -260,7 +263,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #37A691;  
+color: #fc7f03;  
 /* background: #52C2AD; */
 /* border: 1px solid #3AA994 !important; */
 }
@@ -1589,7 +1592,7 @@ padding-top: 12px;
 	
 	.navbar-collapse.collapse  {
 		border: none;
-		overflow: hidden;
+		overflow: visible;
 	}
 
 	
