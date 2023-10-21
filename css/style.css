@@ -299,11 +299,12 @@ display: inline-block;
 	padding:0;  
 	background: #10264d; 
 	position: relative; 
+	
 	/* zoom: 52; */
 }
 #featured .flexslider:after {
 content:'';
-background: rgba(17, 218, 180, 0.67);
+background: rgba(248, 111, 25, 0.37);
 position:absolute;
 top:0px;
 z-index:6;
