@@ -299,7 +299,7 @@ display: inline-block;
 	padding:0;  
 	background: #10264d; 
 	position: relative; 
-	
+
 	/* zoom: 52; */
 }
 #featured .flexslider:after {
@@ -466,6 +466,20 @@ section.callaction {
 	text-decoration: none;
 }
 
+.container-imgg {
+            display: flex;
+            align-items: center;
+        }
+        
+        .imgg {
+            width: 50%;
+        }
+
+        .text {
+            width: 50%;
+            padding: 20px;
+        }
+
 
 /* Bottom
 ==================================== */
@@ -508,7 +522,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #0E987E;
+	background: #f86f19;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -985,7 +999,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #046E5A;
+background: #f86f19;
 }
 footer ul.link-list li a{
 	color:#fff;
