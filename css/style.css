@@ -1701,8 +1701,11 @@ padding-top: 12px;
 	}
 
 	.flexslider .flex-caption {
-		display:none;
+		left: 0%;
+		top: 45%;
 	}
+
+
 
 
 	.cta-text {
